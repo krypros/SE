@@ -18,6 +18,7 @@ public class minimumCostToHireKWorkers {
     }
 
     /*
+    * 贪心+优先队列
     * quality: 每个工人的工作质量
     * wage: 最低期望工资
     * */
