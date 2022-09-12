@@ -1,4 +1,4 @@
-package dp;
+package priorityQueue;
 /*
 * 2022/9/11 857. 雇佣 K 名工人的最低成本 困难
 * https://leetcode.cn/problems/minimum-cost-to-hire-k-workers/
